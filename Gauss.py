@@ -1,3 +1,9 @@
+"""
+Name: Tauheed Butt
+Enrollment: 01-134191-068
+Class: BSCS-6B
+"""
+
 def print_iterations(iterations):
     """
     This will display the iterations in tabular form on the console
